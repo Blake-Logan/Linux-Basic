@@ -6,9 +6,10 @@
 
 []초보 전용(복붙하기)
 ``` bash
-	git clone https://github.com/maxlevdev/Linux-Basic.git && \
-	cd Linux-Basic && chmod +x setup.sh && \
-	./setup.sh && \
+git clone https://github.com/Blake-Logan/Linux-Basic.git && \
+cd Linux-Basic && chmod +x setup.sh && ./setup.sh && \
+echo "helper 를 입력해 실행하기";
+
 ```
 ## 사용법 
 
