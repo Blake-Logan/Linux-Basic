@@ -1,40 +1,105 @@
-# Linux Basic
+그대로 복사해서 `README.md`에 붙여넣으세요.
 
-리눅스 기본을 익힐수 있음.
+```markdown
+# ⚔️ Linux Quest
 
-## How to Download
+**터미널에서 즐기는 인터랙티브 리눅스 학습 게임**  
+An interactive Linux learning game that runs right in your terminal.
 
-[]초보 전용(복붙하기)
-``` bash
-git clone https://github.com/Blake-Logan/Linux-Basic.git && \
-cd Linux-Basic && chmod +x setup.sh && ./setup.sh && \
-echo "helper 를 입력해 실행하기";
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Termux-blue)]()
+[![Made with Go](https://img.shields.io/badge/Made%20with-Go-00ADD8?logo=go)]()
 
-```
-## 사용법 
-
-`helper`를 입력해 열수 있음.
-
-
-## 등장하는 명령어
-
- - pwd
- - ls
- - mkdir
- - rmdir
- - ip
- - 등
-
-## 명령어 정리
-
-| 명령어 | 기능 |
-|:---:|:---:|
-| ls | 현재 디렉토리 기준 `ls .`과 동일. |
-| pwd | 현재 경로 `return` |
-| mkdir | 폴더 만들기 |
+> 초보자도 게임하듯 리눅스 명령어를 배울 수 있습니다.  
+> Learn essential Linux commands through fun quests — perfect for beginners and Termux users.
 
 ---
 
-# 라이선스
+## ✨ Features
 
-MIT
+- 🎮 **Quest-based Learning** — Clear missions and level up
+- 📱 **Termux Ready** — Fully works on Android
+- 🛠️ **Hands-on Practice** — Create real files & folders, then verify
+- 💾 **Auto Save** — Your progress is automatically saved
+- 📈 **XP & Level System** — Track your growth
+
+---
+
+## 🚀 Quick Start
+
+Just copy and paste this command:
+
+```bash
+git clone https://github.com/Blake-Logan/Linux-Basic.git && \
+cd Linux-Basic && chmod +x setup.sh && ./setup.sh
+```
+
+After installation, run:
+
+```bash
+helper
+```
+
+That’s it!
+
+---
+
+## 📚 What You Will Learn
+
+| Chapter | Topics |
+|---------|--------|
+| **Chapter 1** | Navigation (`pwd`, `ls`, `mkdir`, `cd`) |
+| **Chapter 2** | File Operations (`touch`, `echo`, `cp`, `rm`) |
+| **Chapter 3** | Viewing & Searching (`cat`, `grep`, `|`) |
+| **Chapter 4** | Permissions & Processes (`chmod`, `ps`) |
+| **Chapter 5** | Packages & Scripting (`pkg`, `bash`) |
+
+---
+
+## 🖼️ Preview
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│              ⚔️  LINUX QUEST : TERMUX EDITION  ⚔️         │
+├──────────────────────────────────────────────────────────┤
+│  현재 레벨 : Lv.3                                         │
+│  클리어한 퀘스트 : 7 / 15                                 │
+│  획득 칭호 : 초보 모험가                                   │
+└──────────────────────────────────────────────────────────┘
+```
+
+> 💡 **Tip**: 실제 실행 화면 GIF를 여기에 넣으면 훨씬 더 매력적입니다!
+
+---
+
+## 🛠️ Requirements
+
+- Linux or **Termux** (Android)
+- Go compiler (자동으로 확인됩니다)
+
+---
+
+## 🤝 Contributing
+
+이슈나 Pull Request는 언제나 환영합니다!  
+Feel free to open issues or submit PRs.
+
+---
+
+## 📄 License
+
+[MIT](LICENSE)
+
+---
+
+<div align="center">
+
+**이 프로젝트가 도움이 되었다면 Star 한 번 눌러주세요!**  
+**If you found this useful, please give it a ⭐**
+
+</div>
+```
+
+---
+
+원하시면 이 버전을 기준으로 **데모 GIF 자리**에 넣을 수 있는 예시 이미지나, 더 짧게 만든 버전도 추가로 만들어 드릴 수 있어요.
