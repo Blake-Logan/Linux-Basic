@@ -1,11 +1,4 @@
-그대로 복사해서 `README.md`에 붙여넣으세요.
-
-```markdown
-# ⚔️ Linux Quest
-
-**터미널에서 즐기는 인터랙티브 리눅스 학습 게임**  
-An interactive Linux learning game that runs right in your terminal.
-
+**터미널에서 즐기는 인터랙티브 리눅스 학습 게임**  An interactive Linux learning game that runs right in your terminal.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Termux-blue)]()
 [![Made with Go](https://img.shields.io/badge/Made%20with-Go-00ADD8?logo=go)]()
@@ -98,8 +91,3 @@ Feel free to open issues or submit PRs.
 **If you found this useful, please give it a ⭐**
 
 </div>
-```
-
----
-
-원하시면 이 버전을 기준으로 **데모 GIF 자리**에 넣을 수 있는 예시 이미지나, 더 짧게 만든 버전도 추가로 만들어 드릴 수 있어요.
