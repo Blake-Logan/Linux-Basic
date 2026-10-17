@@ -1,8 +1,10 @@
 # ⚔️ Linux Quest
 
 **터미널에서 즐기는 인터랙티브 리눅스 학습 게임**
+
 An interactive Linux learning game that runs right in your terminal.
 
+![MIT](https://img.shields.io/badge/License-MIT-green)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Termux-blue)]()
 [![Made with Go](https://img.shields.io/badge/Made%20with-Go-00ADD8?logo=go)]()
